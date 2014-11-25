@@ -1,5 +1,5 @@
-readme!
+﻿
+this is a test repository for getting knowledge of github.let's go!
 
-let's go!
-
-55555555
+Hello World
+你好这是一个测试.
